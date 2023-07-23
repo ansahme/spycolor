@@ -1,0 +1,47 @@
+TABLE {
+    border-collapse: collapse;
+    width: 62em;
+    height: 40em;
+
+}
+
+td {
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 48px;
+}
+
+#table-div {
+    display: inline-flex;
+    float: left;
+    margin: auto 50px 50px auto;
+}
+
+#next-btn {
+    width: 10em;
+    height: 2em;
+    font-size: 2em;
+    background-color: #ff3bf0;
+    color:aliceblue;
+	margin-top:2em
+}
+
+UL{
+    list-style-type: none;
+}
+
+.player-h3 {
+    display:inline-flex;
+    margin-right: 13em;
+}
+
+UL LI {
+   /* padding:0px 8em 0em 48em;*/
+}
+
+.score{
+    font-size: 3em;
+}
